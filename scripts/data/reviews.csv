@@ -1,0 +1,301 @@
+review_id,order_id,customer_id,product_id,platform_id,review_text,review_timestamp,rating,verified_purchase,refunded_product,is_fraud
+R00297,ORD00226,C0214,P0005,1,Sennheiser Momentum 4. One side fails to work Windows 10 connection issues Sound imbalance Battery drains quickly Not available in different colors,2023-06-09 00:00:00,2,False,False,0
+R00029,ORD00014,C0095,P0007,1,PERFECT!!! 5 STARS!!!,2023-06-22 00:00:00,4,False,False,1
+R00095,ORD00239,C0026,P0007,1,Beats Studio3 Wireless. Type C charging is a plus Sound quality is crisp with good bass Water / sweat resistant,2023-10-29 00:00:00,5,True,False,0
+R00088,ORD00204,C0050,P0008,1,Anker Soundcore Life Q35. Amazing color options,2023-08-21 00:00:00,5,True,False,0
+R00100,ORD00129,C0048,P0007,1,Beats Studio3 Wireless. Comfortable for long usage Amazing color options,2023-08-19 00:00:00,4,True,False,0
+R00075,ORD00237,C0041,P0007,1,Beats Studio3 Wireless. Sound quality is crisp with good bass Comfortable for long usage Worth the price Type C charging is a plus,2023-11-08 00:00:00,5,True,False,0
+R00229,ORD00216,C0025,P0002,1,Sony WH-1000XM4. Windows 10 connection issues Color fades quickly Not available in different colors,2023-11-17 00:00:00,2,True,False,0
+R00231,ORD00012,C0024,P0002,1,Sony WH-1000XM4. Windows 10 connection issues Not available in different colors Color fades quickly,2023-07-29 00:00:00,3,True,False,0
+R00220,ORD00006,C0147,P0010,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-08-18 00:00:00,3,True,False,0
+R00006,ORD00195,C0133,P0006,1,AMAZING AMAZING AMAZING!!!,2023-09-12 00:00:00,5,False,False,1
+R00004,ORD00260,C0059,P0010,1,WOW!!! MUST BUY!!!,2023-08-23 00:00:00,5,False,False,1
+R00114,ORD00106,C0141,P0009,1,Boat Rockerz 550. Water / sweat resistant,2023-07-30 00:00:00,4,True,False,0
+R00154,ORD00067,C0007,P0002,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-11-27 00:00:00,4,True,False,0
+R00273,ORD00195,C0133,P0006,1,JBL Live 660NC. Windows 10 connection issues Battery drains quickly Color fades quickly,2023-07-05 00:00:00,3,False,False,0
+R00035,ORD00065,C0064,P0005,1,,2023-07-26 00:00:00,1,False,False,0
+R00189,ORD00156,C0183,P0008,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-06-11 00:00:00,4,True,False,0
+R00277,ORD00072,C0041,P0002,1,Sony WH-1000XM4. One side fails to work Battery drains quickly Color fades quickly,2023-09-05 00:00:00,3,True,True,0
+R00087,ORD00080,C0016,P0002,1,Sony WH-1000XM4. Great for calls and music,2023-08-26 00:00:00,5,True,False,0
+R00151,ORD00225,C0184,P0005,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-11-21 00:00:00,3,True,False,0
+R00057,ORD00241,C0031,P0006,1,,2023-06-14 00:00:00,3,True,False,0
+R00136,ORD00109,C0207,P0005,1,Sennheiser Momentum 4. Worth the price Type C charging is a plus,2023-07-01 00:00:00,5,True,True,0
+R00056,ORD00065,C0064,P0005,1,Good product,2023-06-04 00:00:00,4,True,False,0
+R00144,ORD00132,C0089,P0007,1,Beats Studio3 Wireless. Type C charging is a plus Worth the price,2023-12-12 00:00:00,4,True,False,0
+R00030,ORD00070,C0012,P0010,1,PERFECT!!! 5 STARS!!!,2023-06-13 00:00:00,4,False,False,1
+R00048,ORD00098,C0076,P0002,1,,2023-12-12 00:00:00,4,True,False,0
+R00170,ORD00054,C0216,P0003,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-09-27 00:00:00,4,True,False,0
+R00024,ORD00200,C0153,P0002,1,BEST PRODUCT EVER!!! BUY NOW!!!,2023-10-01 00:00:00,5,False,True,1
+R00146,ORD00166,C0076,P0002,1,Sony WH-1000XM4. Type C charging is a plus Water / sweat resistant Sound quality is crisp with good bass,2023-09-22 00:00:00,5,True,False,0
+R00145,ORD00039,C0137,P0006,1,JBL Live 660NC. Great for calls and music Water / sweat resistant,2023-11-22 00:00:00,5,True,False,0
+R00031,ORD00168,C0217,P0008,1,,2023-09-06 00:00:00,3,True,False,0
+R00028,ORD00208,C0173,P0001,1,AMAZING AMAZING AMAZING!!!,2023-07-03 00:00:00,5,False,False,1
+R00284,ORD00232,C0165,P0006,1,JBL Live 660NC. Sound imbalance Battery drains quickly Color fades quickly,2023-08-27 00:00:00,3,True,False,0
+R00190,ORD00015,C0080,P0003,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-11-11 00:00:00,4,True,True,0
+R00238,ORD00164,C0115,P0003,1,Bose QuietComfort 45. Windows 10 connection issues One side fails to work Battery drains quickly Not available in different colors,2023-09-30 00:00:00,1,False,False,0
+R00287,ORD00102,C0135,P0006,1,JBL Live 660NC. Not available in different colors Windows 10 connection issues Color fades quickly Sound imbalance,2023-08-11 00:00:00,3,True,False,0
+R00212,ORD00212,C0163,P0006,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-11-15 00:00:00,3,True,False,0
+R00298,ORD00179,C0037,P0004,1,Apple AirPods Max. Windows 10 connection issues,2023-07-31 00:00:00,1,False,False,0
+R00290,ORD00089,C0075,P0002,1,Sony WH-1000XM4. Not available in different colors Color fades quickly Sound imbalance,2023-07-01 00:00:00,3,True,False,0
+R00117,ORD00090,C0145,P0009,1,Boat Rockerz 550. Sound quality is crisp with good bass Comfortable for long usage Amazing color options,2023-10-13 00:00:00,5,True,False,0
+R00198,ORD00207,C0034,P0008,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-10-20 00:00:00,3,True,False,0
+R00143,ORD00100,C0073,P0007,1,Beats Studio3 Wireless. Amazing color options Great for calls and music Battery lasts all day,2023-07-31 00:00:00,4,True,False,0
+R00184,ORD00090,C0145,P0009,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-06-07 00:00:00,3,True,False,0
+R00236,ORD00165,C0094,P0006,1,JBL Live 660NC. Battery drains quickly One side fails to work,2023-09-14 00:00:00,3,True,False,0
+R00079,ORD00256,C0008,P0010,1,OnePlus Buds Pro 2. Worth the price Water / sweat resistant Battery lasts all day,2023-08-02 00:00:00,5,True,False,0
+R00083,ORD00194,C0115,P0003,1,Bose QuietComfort 45. Amazing color options Battery lasts all day Comfortable for long usage Great for calls and music,2023-07-30 00:00:00,5,True,False,0
+R00240,ORD00069,C0209,P0009,1,Boat Rockerz 550. One side fails to work Battery drains quickly Color fades quickly Windows 10 connection issues,2023-09-24 00:00:00,3,True,False,0
+R00011,ORD00102,C0135,P0006,1,AMAZING AMAZING AMAZING!!!,2023-06-12 00:00:00,4,False,False,1
+R00053,ORD00095,C0189,P0002,1,,2023-10-29 00:00:00,4,True,False,0
+R00045,ORD00231,C0061,P0002,1,,2023-11-19 00:00:00,4,False,False,0
+R00223,ORD00042,C0180,P0009,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-10-16 00:00:00,4,True,False,0
+R00201,ORD00243,C0169,P0008,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-09-09 00:00:00,2,True,False,0
+R00213,ORD00244,C0082,P0005,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-11-14 00:00:00,2,True,False,0
+R00155,ORD00048,C0102,P0008,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-12-14 00:00:00,3,True,False,0
+R00065,ORD00233,C0129,P0010,1,OnePlus Buds Pro 2. Water / sweat resistant,2023-11-08 00:00:00,5,True,False,0
+R00262,ORD00224,C0009,P0007,1,Beats Studio3 Wireless. Sound imbalance Battery drains quickly,2023-10-31 00:00:00,3,False,False,0
+R00176,ORD00152,C0093,P0009,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-06-11 00:00:00,3,True,False,0
+R00037,ORD00084,C0040,P0003,1,Good product,2023-08-19 00:00:00,1,False,False,0
+R00107,ORD00238,C0133,P0008,1,Anker Soundcore Life Q35. Battery lasts all day Sound quality is crisp with good bass Comfortable for long usage,2023-06-10 00:00:00,4,True,False,0
+R00104,ORD00116,C0191,P0006,1,JBL Live 660NC. Amazing color options Sound quality is crisp with good bass Water / sweat resistant Battery lasts all day,2023-10-16 00:00:00,5,True,False,0
+R00102,ORD00103,C0143,P0008,1,Anker Soundcore Life Q35. Amazing color options Worth the price,2023-07-13 00:00:00,5,True,False,0
+R00243,ORD00098,C0076,P0002,1,Sony WH-1000XM4. Color fades quickly,2023-11-26 00:00:00,2,False,False,0
+R00210,ORD00227,C0099,P0009,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-11-26 00:00:00,4,True,False,0
+R00268,ORD00209,C0113,P0009,1,Boat Rockerz 550. Sound imbalance,2023-06-24 00:00:00,1,True,False,0
+R00257,ORD00005,C0145,P0008,1,Anker Soundcore Life Q35. Sound imbalance Windows 10 connection issues,2023-08-24 00:00:00,2,True,False,0
+R00047,ORD00133,C0178,P0004,1,,2023-08-10 00:00:00,5,False,False,0
+R00191,ORD00149,C0184,P0007,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-06-16 00:00:00,4,True,False,0
+R00076,ORD00027,C0172,P0006,1,JBL Live 660NC. Worth the price Great for calls and music,2023-08-13 00:00:00,4,True,False,0
+R00233,ORD00215,C0092,P0001,1,Sony WH-1000XM5. Sound imbalance One side fails to work Not available in different colors Color fades quickly Battery drains quickly,2023-11-01 00:00:00,3,True,False,0
+R00232,ORD00178,C0052,P0006,1,JBL Live 660NC. Battery drains quickly One side fails to work,2023-06-09 00:00:00,3,False,False,0
+R00106,ORD00242,C0041,P0004,1,Apple AirPods Max. Amazing color options,2023-11-13 00:00:00,4,True,True,0
+R00296,ORD00254,C0186,P0009,1,Boat Rockerz 550. Not available in different colors Sound imbalance Color fades quickly One side fails to work Battery drains quickly,2023-06-11 00:00:00,3,False,False,0
+R00112,ORD00098,C0076,P0002,1,Sony WH-1000XM4. Great for calls and music,2023-11-17 00:00:00,4,True,False,0
+R00282,ORD00013,C0072,P0007,1,Beats Studio3 Wireless. Sound imbalance Battery drains quickly Windows 10 connection issues Color fades quickly,2023-12-04 00:00:00,1,False,False,0
+R00061,ORD00195,C0133,P0006,1,JBL Live 660NC. Great for calls and music Type C charging is a plus Worth the price Water / sweat resistant,2023-10-24 00:00:00,5,True,False,0
+R00247,ORD00009,C0167,P0005,1,Sennheiser Momentum 4. Not available in different colors Color fades quickly Windows 10 connection issues,2023-08-24 00:00:00,2,True,False,0
+R00082,ORD00251,C0220,P0004,1,Apple AirPods Max. Great for calls and music Worth the price,2023-08-28 00:00:00,5,True,False,0
+R00172,ORD00103,C0143,P0008,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-06-10 00:00:00,3,True,False,0
+R00007,ORD00001,C0133,P0008,1,WOW!!! MUST BUY!!!,2023-07-24 00:00:00,5,False,False,1
+R00175,ORD00043,C0181,P0008,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-06-27 00:00:00,3,True,True,0
+R00128,ORD00189,C0131,P0005,1,Sennheiser Momentum 4. Worth the price,2023-09-18 00:00:00,4,True,False,0
+R00280,ORD00023,C0007,P0010,1,OnePlus Buds Pro 2. Color fades quickly Windows 10 connection issues Battery drains quickly One side fails to work Sound imbalance,2023-07-27 00:00:00,1,True,False,0
+R00097,ORD00055,C0113,P0005,1,Sennheiser Momentum 4. Battery lasts all day Worth the price,2023-10-26 00:00:00,5,True,False,0
+R00241,ORD00048,C0102,P0008,1,Anker Soundcore Life Q35. Color fades quickly One side fails to work Sound imbalance Not available in different colors Battery drains quickly,2023-06-11 00:00:00,3,True,False,0
+R00215,ORD00149,C0184,P0007,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-08-12 00:00:00,3,True,False,0
+R00126,ORD00182,C0045,P0004,1,Apple AirPods Max. Sound quality is crisp with good bass Type C charging is a plus Worth the price Battery lasts all day,2023-06-27 00:00:00,5,True,False,0
+R00090,ORD00051,C0114,P0005,1,Sennheiser Momentum 4. Great for calls and music,2023-11-25 00:00:00,4,True,False,0
+R00204,ORD00088,C0186,P0010,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-06-05 00:00:00,2,True,False,0
+R00157,ORD00020,C0104,P0009,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-12-15 00:00:00,4,True,False,0
+R00237,ORD00032,C0017,P0003,1,Bose QuietComfort 45. Not available in different colors One side fails to work Windows 10 connection issues Battery drains quickly Color fades quickly,2023-11-12 00:00:00,1,False,False,0
+R00068,ORD00207,C0034,P0008,1,Anker Soundcore Life Q35. Great for calls and music Water / sweat resistant Sound quality is crisp with good bass,2023-09-19 00:00:00,4,True,False,0
+R00259,ORD00144,C0208,P0003,1,Bose QuietComfort 45. Not available in different colors Sound imbalance One side fails to work Windows 10 connection issues Color fades quickly,2023-12-10 00:00:00,1,True,False,0
+R00019,ORD00142,C0161,P0009,1,PERFECT!!! 5 STARS!!!,2023-08-10 00:00:00,4,False,False,1
+R00294,ORD00254,C0186,P0009,1,Boat Rockerz 550. Color fades quickly Windows 10 connection issues Not available in different colors Battery drains quickly,2023-06-22 00:00:00,2,True,False,0
+R00227,ORD00038,C0127,P0009,1,Boat Rockerz 550. Windows 10 connection issues,2023-10-17 00:00:00,2,False,False,0
+R00108,ORD00253,C0164,P0006,1,JBL Live 660NC. Comfortable for long usage,2023-10-16 00:00:00,4,True,False,0
+R00040,ORD00022,C0135,P0007,1,,2023-06-18 00:00:00,4,False,False,0
+R00245,ORD00134,C0191,P0009,1,Boat Rockerz 550. Not available in different colors Windows 10 connection issues Color fades quickly,2023-12-02 00:00:00,1,False,False,0
+R00050,ORD00114,C0032,P0008,1,,2023-10-27 00:00:00,2,True,False,0
+R00124,ORD00243,C0169,P0008,1,Anker Soundcore Life Q35. Comfortable for long usage,2023-06-24 00:00:00,4,True,False,0
+R00055,ORD00008,C0130,P0001,1,Good product,2023-06-14 00:00:00,2,True,False,0
+R00193,ORD00177,C0057,P0003,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-08-01 00:00:00,3,True,False,0
+R00185,ORD00189,C0131,P0005,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-12-01 00:00:00,3,True,False,0
+R00025,ORD00181,C0022,P0008,1,WOW!!! MUST BUY!!!,2023-09-16 00:00:00,5,False,False,1
+R00253,ORD00147,C0049,P0001,1,Sony WH-1000XM5. Not available in different colors,2023-07-16 00:00:00,3,True,False,0
+R00094,ORD00255,C0167,P0010,1,OnePlus Buds Pro 2. Type C charging is a plus Comfortable for long usage Water / sweat resistant Great for calls and music Amazing color options,2023-11-18 00:00:00,5,True,True,0
+R00098,ORD00152,C0093,P0009,1,Boat Rockerz 550. Battery lasts all day,2023-06-03 00:00:00,5,True,False,0
+R00070,ORD00011,C0128,P0006,1,JBL Live 660NC. Sound quality is crisp with good bass Battery lasts all day Comfortable for long usage,2023-10-11 00:00:00,5,True,False,0
+R00260,ORD00204,C0050,P0008,1,Anker Soundcore Life Q35. Battery drains quickly,2023-10-24 00:00:00,1,True,False,0
+R00254,ORD00050,C0089,P0010,1,OnePlus Buds Pro 2. One side fails to work Color fades quickly Not available in different colors Battery drains quickly Windows 10 connection issues,2023-09-10 00:00:00,2,True,True,0
+R00051,ORD00177,C0057,P0003,1,,2023-11-27 00:00:00,5,True,False,0
+R00275,ORD00125,C0106,P0010,1,OnePlus Buds Pro 2. Windows 10 connection issues Battery drains quickly Color fades quickly,2023-10-23 00:00:00,2,True,False,0
+R00161,ORD00191,C0154,P0004,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-10-10 00:00:00,3,True,False,0
+R00062,ORD00051,C0114,P0005,1,Sennheiser Momentum 4. Water / sweat resistant Type C charging is a plus,2023-07-11 00:00:00,4,True,False,0
+R00173,ORD00098,C0076,P0002,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-07-02 00:00:00,3,True,False,0
+R00208,ORD00153,C0096,P0010,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-12-02 00:00:00,4,True,False,0
+R00149,ORD00022,C0135,P0007,1,Beats Studio3 Wireless. Water / sweat resistant Type C charging is a plus Worth the price Great for calls and music,2023-06-16 00:00:00,4,True,False,0
+R00244,ORD00105,C0203,P0008,1,Anker Soundcore Life Q35. One side fails to work Not available in different colors Battery drains quickly Color fades quickly,2023-11-14 00:00:00,2,True,False,0
+R00258,ORD00049,C0037,P0001,1,Sony WH-1000XM5. Sound imbalance One side fails to work Not available in different colors Battery drains quickly Windows 10 connection issues,2023-06-20 00:00:00,2,True,False,0
+R00182,ORD00252,C0119,P0001,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-11-30 00:00:00,2,True,False,0
+R00073,ORD00254,C0186,P0009,1,Boat Rockerz 550. Battery lasts all day Great for calls and music Worth the price,2023-09-25 00:00:00,4,True,True,0
+R00267,ORD00139,C0004,P0002,1,Sony WH-1000XM4. One side fails to work,2023-09-23 00:00:00,1,True,False,0
+R00192,ORD00213,C0095,P0004,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-08-21 00:00:00,4,True,False,0
+R00266,ORD00200,C0153,P0002,1,Sony WH-1000XM4. Battery drains quickly Sound imbalance Not available in different colors,2023-09-22 00:00:00,1,False,False,0
+R00242,ORD00097,C0152,P0007,1,Beats Studio3 Wireless. Color fades quickly Not available in different colors One side fails to work Windows 10 connection issues Sound imbalance,2023-06-04 00:00:00,2,True,False,0
+R00134,ORD00140,C0100,P0001,1,Sony WH-1000XM5. Comfortable for long usage Type C charging is a plus,2023-06-29 00:00:00,5,True,False,0
+R00194,ORD00137,C0174,P0010,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-11-05 00:00:00,3,True,False,0
+R00127,ORD00109,C0207,P0005,1,Sennheiser Momentum 4. Great for calls and music Comfortable for long usage,2023-08-29 00:00:00,4,True,False,0
+R00147,ORD00141,C0020,P0003,1,Bose QuietComfort 45. Sound quality is crisp with good bass Type C charging is a plus Worth the price Great for calls and music Battery lasts all day,2023-09-24 00:00:00,5,True,True,0
+R00129,ORD00014,C0095,P0007,1,Beats Studio3 Wireless. Worth the price Sound quality is crisp with good bass Comfortable for long usage Type C charging is a plus Great for calls and music,2023-08-29 00:00:00,5,True,True,0
+R00246,ORD00164,C0115,P0003,1,Bose QuietComfort 45. Battery drains quickly Color fades quickly,2023-07-27 00:00:00,2,True,False,0
+R00022,ORD00079,C0192,P0009,1,AMAZING AMAZING AMAZING!!!,2023-09-15 00:00:00,4,False,False,1
+R00174,ORD00224,C0009,P0007,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-10-11 00:00:00,3,True,False,0
+R00091,ORD00015,C0080,P0003,1,Bose QuietComfort 45. Amazing color options,2023-08-15 00:00:00,4,True,False,0
+R00148,ORD00189,C0131,P0005,1,Sennheiser Momentum 4. Comfortable for long usage Amazing color options Sound quality is crisp with good bass,2023-09-27 00:00:00,5,True,False,0
+R00219,ORD00128,C0104,P0002,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-08-17 00:00:00,3,True,False,0
+R00180,ORD00040,C0203,P0003,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-06-07 00:00:00,2,True,False,0
+R00288,ORD00033,C0144,P0008,1,Anker Soundcore Life Q35. Sound imbalance Not available in different colors One side fails to work Windows 10 connection issues Battery drains quickly,2023-08-07 00:00:00,1,True,False,0
+R00251,ORD00078,C0155,P0003,1,Bose QuietComfort 45. One side fails to work,2023-06-16 00:00:00,3,True,False,0
+R00200,ORD00174,C0128,P0001,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-07-06 00:00:00,2,True,False,0
+R00096,ORD00218,C0012,P0002,1,Sony WH-1000XM4. Great for calls and music Battery lasts all day Type C charging is a plus,2023-09-07 00:00:00,4,True,False,0
+R00158,ORD00085,C0089,P0005,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-08-12 00:00:00,4,True,False,0
+R00039,ORD00125,C0106,P0010,1,,2023-11-01 00:00:00,3,False,False,0
+R00171,ORD00246,C0003,P0006,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-08-15 00:00:00,2,True,False,0
+R00196,ORD00047,C0204,P0002,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-06-13 00:00:00,2,True,False,0
+R00137,ORD00221,C0078,P0009,1,Boat Rockerz 550. Type C charging is a plus Water / sweat resistant,2023-10-07 00:00:00,4,True,False,0
+R00010,ORD00172,C0073,P0005,1,BEST PRODUCT EVER!!! BUY NOW!!!,2023-11-20 00:00:00,4,False,False,1
+R00150,ORD00176,C0109,P0010,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-08-03 00:00:00,4,True,False,0
+R00224,ORD00168,C0217,P0008,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-10-09 00:00:00,2,True,False,0
+R00067,ORD00085,C0089,P0005,1,Sennheiser Momentum 4. Worth the price Water / sweat resistant Sound quality is crisp with good bass,2023-11-24 00:00:00,5,True,False,0
+R00078,ORD00008,C0130,P0001,1,Sony WH-1000XM5. Battery lasts all day Sound quality is crisp with good bass Comfortable for long usage Great for calls and music Water / sweat resistant,2023-11-13 00:00:00,4,True,False,0
+R00130,ORD00074,C0205,P0002,1,Sony WH-1000XM4. Battery lasts all day Sound quality is crisp with good bass Comfortable for long usage Great for calls and music Worth the price,2023-09-05 00:00:00,4,True,False,0
+R00152,ORD00172,C0073,P0005,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-08-04 00:00:00,3,True,False,0
+R00278,ORD00246,C0003,P0006,1,JBL Live 660NC. Windows 10 connection issues Not available in different colors Color fades quickly Battery drains quickly Sound imbalance,2023-10-16 00:00:00,2,False,False,0
+R00270,ORD00125,C0106,P0010,1,OnePlus Buds Pro 2. Not available in different colors One side fails to work Windows 10 connection issues Sound imbalance Battery drains quickly,2023-10-05 00:00:00,2,True,False,0
+R00036,ORD00132,C0089,P0007,1,Good product,2023-12-09 00:00:00,2,False,False,0
+R00281,ORD00114,C0032,P0008,1,Anker Soundcore Life Q35. Battery drains quickly Windows 10 connection issues Not available in different colors Color fades quickly,2023-07-09 00:00:00,3,True,False,0
+R00295,ORD00113,C0136,P0004,1,Apple AirPods Max. Sound imbalance Battery drains quickly One side fails to work,2023-12-17 00:00:00,3,True,False,0
+R00166,ORD00155,C0178,P0006,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-06-29 00:00:00,2,True,False,0
+R00264,ORD00183,C0065,P0002,1,Sony WH-1000XM4. Windows 10 connection issues Color fades quickly One side fails to work Battery drains quickly Not available in different colors,2023-08-15 00:00:00,1,False,False,0
+R00206,ORD00071,C0186,P0004,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-09-26 00:00:00,2,True,False,0
+R00159,ORD00230,C0042,P0010,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-10-25 00:00:00,4,True,False,0
+R00043,ORD00139,C0004,P0002,1,Good product,2023-09-28 00:00:00,5,False,False,0
+R00271,ORD00086,C0122,P0002,1,Sony WH-1000XM4. Battery drains quickly Windows 10 connection issues Color fades quickly One side fails to work,2023-08-03 00:00:00,1,True,False,0
+R00001,ORD00060,C0202,P0006,1,PERFECT!!! 5 STARS!!!,2023-08-05 00:00:00,4,False,True,1
+R00153,ORD00077,C0040,P0007,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-11-26 00:00:00,4,True,False,0
+R00125,ORD00191,C0154,P0004,1,Apple AirPods Max. Sound quality is crisp with good bass Worth the price,2023-11-19 00:00:00,5,True,False,0
+R00013,ORD00100,C0073,P0007,1,PERFECT!!! 5 STARS!!!,2023-09-11 00:00:00,5,False,False,1
+R00093,ORD00093,C0113,P0005,1,Sennheiser Momentum 4. Type C charging is a plus Sound quality is crisp with good bass,2023-11-06 00:00:00,5,True,False,0
+R00286,ORD00237,C0041,P0007,1,Beats Studio3 Wireless. Windows 10 connection issues One side fails to work,2023-09-19 00:00:00,1,True,False,0
+R00085,ORD00196,C0042,P0006,1,JBL Live 660NC. Type C charging is a plus Water / sweat resistant Sound quality is crisp with good bass Comfortable for long usage,2023-06-26 00:00:00,5,True,False,0
+R00032,ORD00216,C0025,P0002,1,,2023-12-09 00:00:00,1,True,False,0
+R00059,ORD00028,C0097,P0003,1,,2023-06-22 00:00:00,5,False,False,0
+R00122,ORD00059,C0085,P0006,1,JBL Live 660NC. Water / sweat resistant Great for calls and music Battery lasts all day Comfortable for long usage Amazing color options,2023-09-25 00:00:00,5,True,False,0
+R00283,ORD00160,C0184,P0001,1,Sony WH-1000XM5. Windows 10 connection issues One side fails to work Color fades quickly,2023-09-21 00:00:00,2,True,False,0
+R00183,ORD00045,C0045,P0002,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-07-11 00:00:00,3,True,False,0
+R00222,ORD00233,C0129,P0010,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-12-11 00:00:00,4,True,False,0
+R00269,ORD00167,C0102,P0010,1,OnePlus Buds Pro 2. Sound imbalance Battery drains quickly Windows 10 connection issues One side fails to work,2023-10-22 00:00:00,1,False,False,0
+R00060,ORD00061,C0112,P0005,1,Good product,2023-11-06 00:00:00,4,False,False,0
+R00003,ORD00170,C0191,P0008,1,WOW!!! MUST BUY!!!,2023-12-02 00:00:00,4,False,False,1
+R00163,ORD00121,C0177,P0007,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-11-30 00:00:00,2,True,False,0
+R00042,ORD00186,C0101,P0005,1,Good product,2023-09-20 00:00:00,4,False,False,0
+R00119,ORD00023,C0007,P0010,1,OnePlus Buds Pro 2. Worth the price Water / sweat resistant Amazing color options Sound quality is crisp with good bass Great for calls and music,2023-09-11 00:00:00,5,True,False,0
+R00063,ORD00039,C0137,P0006,1,JBL Live 660NC. Sound quality is crisp with good bass Water / sweat resistant,2023-11-24 00:00:00,5,True,False,0
+R00187,ORD00066,C0094,P0004,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-07-10 00:00:00,4,True,False,0
+R00139,ORD00040,C0203,P0003,1,Bose QuietComfort 45. Battery lasts all day Worth the price Water / sweat resistant,2023-08-14 00:00:00,5,True,False,0
+R00138,ORD00182,C0045,P0004,1,Apple AirPods Max. Battery lasts all day,2023-09-20 00:00:00,4,True,True,0
+R00113,ORD00011,C0128,P0006,1,JBL Live 660NC. Amazing color options,2023-07-03 00:00:00,4,True,False,0
+R00274,ORD00103,C0143,P0008,1,Anker Soundcore Life Q35. Battery drains quickly One side fails to work Windows 10 connection issues Not available in different colors,2023-11-10 00:00:00,2,False,False,0
+R00279,ORD00044,C0035,P0006,1,JBL Live 660NC. One side fails to work,2023-07-13 00:00:00,3,True,False,0
+R00156,ORD00116,C0191,P0006,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-12-15 00:00:00,4,True,False,0
+R00218,ORD00208,C0173,P0001,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-10-01 00:00:00,2,True,False,0
+R00009,ORD00243,C0169,P0008,1,AMAZING AMAZING AMAZING!!!,2023-08-12 00:00:00,4,False,False,1
+R00072,ORD00210,C0171,P0001,1,Sony WH-1000XM5. Amazing color options Great for calls and music Sound quality is crisp with good bass,2023-08-24 00:00:00,4,True,False,0
+R00074,ORD00130,C0078,P0005,1,Sennheiser Momentum 4. Comfortable for long usage Battery lasts all day Water / sweat resistant,2023-11-16 00:00:00,4,True,False,0
+R00038,ORD00193,C0213,P0010,1,,2023-11-24 00:00:00,2,True,False,0
+R00300,ORD00144,C0208,P0003,1,Bose QuietComfort 45. Not available in different colors One side fails to work Battery drains quickly Windows 10 connection issues Color fades quickly,2023-10-10 00:00:00,2,True,False,0
+R00118,ORD00033,C0144,P0008,1,Anker Soundcore Life Q35. Great for calls and music Battery lasts all day Type C charging is a plus Worth the price,2023-09-24 00:00:00,4,True,False,0
+R00016,ORD00238,C0133,P0008,1,WOW!!! MUST BUY!!!,2023-11-04 00:00:00,5,False,False,1
+R00216,ORD00253,C0164,P0006,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-12-05 00:00:00,2,True,False,0
+R00005,ORD00152,C0093,P0009,1,AMAZING AMAZING AMAZING!!!,2023-09-16 00:00:00,4,False,False,1
+R00023,ORD00239,C0026,P0007,1,PERFECT!!! 5 STARS!!!,2023-07-23 00:00:00,4,False,False,1
+R00018,ORD00244,C0082,P0005,1,PERFECT!!! 5 STARS!!!,2023-12-10 00:00:00,5,False,False,1
+R00132,ORD00044,C0035,P0006,1,JBL Live 660NC. Type C charging is a plus,2023-12-11 00:00:00,4,True,False,0
+R00263,ORD00168,C0217,P0008,1,Anker Soundcore Life Q35. Color fades quickly,2023-09-24 00:00:00,2,False,False,0
+R00209,ORD00063,C0101,P0006,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-11-30 00:00:00,3,True,True,0
+R00256,ORD00017,C0146,P0002,1,Sony WH-1000XM4. Windows 10 connection issues,2023-09-30 00:00:00,2,True,True,0
+R00044,ORD00138,C0014,P0003,1,,2023-06-23 00:00:00,2,False,False,0
+R00167,ORD00256,C0008,P0010,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-11-05 00:00:00,2,True,False,0
+R00239,ORD00116,C0191,P0006,1,JBL Live 660NC. Color fades quickly One side fails to work Windows 10 connection issues,2023-09-15 00:00:00,1,True,False,0
+R00299,ORD00180,C0101,P0009,1,Boat Rockerz 550. Color fades quickly Windows 10 connection issues One side fails to work Battery drains quickly Sound imbalance,2023-06-16 00:00:00,1,False,False,0
+R00276,ORD00093,C0113,P0005,1,Sennheiser Momentum 4. Sound imbalance Windows 10 connection issues One side fails to work Not available in different colors Battery drains quickly,2023-09-13 00:00:00,3,True,False,0
+R00071,ORD00143,C0003,P0009,1,Boat Rockerz 550. Battery lasts all day Amazing color options,2023-06-24 00:00:00,5,True,False,0
+R00164,ORD00075,C0031,P0007,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-11-05 00:00:00,3,True,True,0
+R00140,ORD00011,C0128,P0006,1,JBL Live 660NC. Type C charging is a plus Battery lasts all day Worth the price,2023-11-24 00:00:00,5,True,False,0
+R00292,ORD00197,C0075,P0006,1,JBL Live 660NC. One side fails to work Windows 10 connection issues Color fades quickly Battery drains quickly,2023-07-06 00:00:00,1,True,False,0
+R00101,ORD00018,C0002,P0006,1,JBL Live 660NC. Amazing color options Great for calls and music Comfortable for long usage Sound quality is crisp with good bass Type C charging is a plus,2023-12-09 00:00:00,5,True,False,0
+R00228,ORD00036,C0120,P0004,1,Apple AirPods Max. Sound imbalance Battery drains quickly Windows 10 connection issues Color fades quickly,2023-12-04 00:00:00,1,False,False,0
+R00021,ORD00042,C0180,P0009,1,AMAZING AMAZING AMAZING!!!,2023-07-30 00:00:00,4,False,False,1
+R00020,ORD00147,C0049,P0001,1,AMAZING AMAZING AMAZING!!!,2023-08-25 00:00:00,5,False,False,1
+R00049,ORD00244,C0082,P0005,1,Good product,2023-06-05 00:00:00,4,True,True,0
+R00133,ORD00042,C0180,P0009,1,Boat Rockerz 550. Great for calls and music Amazing color options Water / sweat resistant,2023-11-03 00:00:00,5,True,False,0
+R00002,ORD00224,C0009,P0007,1,BEST PRODUCT EVER!!! BUY NOW!!!,2023-09-02 00:00:00,4,False,False,1
+R00179,ORD00186,C0101,P0005,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-09-04 00:00:00,3,True,False,0
+R00121,ORD00167,C0102,P0010,1,OnePlus Buds Pro 2. Worth the price Water / sweat resistant Great for calls and music Amazing color options,2023-06-26 00:00:00,5,True,False,0
+R00026,ORD00113,C0136,P0004,1,PERFECT!!! 5 STARS!!!,2023-08-09 00:00:00,4,False,False,1
+R00142,ORD00159,C0073,P0010,1,OnePlus Buds Pro 2. Water / sweat resistant Type C charging is a plus Comfortable for long usage,2023-10-09 00:00:00,4,True,False,0
+R00265,ORD00038,C0127,P0009,1,Boat Rockerz 550. Battery drains quickly,2023-12-18 00:00:00,1,True,False,0
+R00221,ORD00258,C0213,P0001,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-07-05 00:00:00,2,True,False,0
+R00248,ORD00126,C0195,P0006,1,JBL Live 660NC. Not available in different colors Battery drains quickly Color fades quickly One side fails to work,2023-10-04 00:00:00,3,True,False,0
+R00291,ORD00060,C0202,P0006,1,JBL Live 660NC. Battery drains quickly One side fails to work,2023-10-31 00:00:00,3,True,False,0
+R00225,ORD00029,C0045,P0003,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-09-27 00:00:00,4,True,False,0
+R00066,ORD00102,C0135,P0006,1,JBL Live 660NC. Comfortable for long usage Worth the price Great for calls and music Amazing color options,2023-07-07 00:00:00,5,True,True,0
+R00261,ORD00200,C0153,P0002,1,Sony WH-1000XM4. Battery drains quickly Windows 10 connection issues One side fails to work Color fades quickly Sound imbalance,2023-08-28 00:00:00,3,False,True,0
+R00058,ORD00245,C0068,P0002,1,,2023-06-19 00:00:00,1,True,False,0
+R00285,ORD00085,C0089,P0005,1,Sennheiser Momentum 4. Not available in different colors One side fails to work,2023-10-22 00:00:00,3,True,False,0
+R00109,ORD00233,C0129,P0010,1,OnePlus Buds Pro 2. Battery lasts all day Worth the price Amazing color options,2023-09-15 00:00:00,4,True,False,0
+R00116,ORD00014,C0095,P0007,1,Beats Studio3 Wireless. Sound quality is crisp with good bass Type C charging is a plus,2023-10-29 00:00:00,4,True,False,0
+R00293,ORD00231,C0061,P0002,1,Sony WH-1000XM4. Sound imbalance Battery drains quickly Color fades quickly One side fails to work Windows 10 connection issues,2023-10-22 00:00:00,1,False,False,0
+R00226,ORD00158,C0076,P0002,1,Sony WH-1000XM4. Windows 10 connection issues,2023-12-08 00:00:00,2,False,False,0
+R00255,ORD00208,C0173,P0001,1,Sony WH-1000XM5. Not available in different colors One side fails to work Color fades quickly Windows 10 connection issues,2023-06-21 00:00:00,3,False,False,0
+R00165,ORD00041,C0112,P0007,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-12-16 00:00:00,2,True,False,0
+R00012,ORD00244,C0082,P0005,1,BEST PRODUCT EVER!!! BUY NOW!!!,2023-09-15 00:00:00,5,False,False,1
+R00033,ORD00180,C0101,P0009,1,,2023-11-14 00:00:00,1,False,True,0
+R00207,ORD00176,C0109,P0010,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-08-16 00:00:00,4,True,False,0
+R00015,ORD00238,C0133,P0008,1,BEST PRODUCT EVER!!! BUY NOW!!!,2023-07-02 00:00:00,4,False,False,1
+R00027,ORD00015,C0080,P0003,1,PERFECT!!! 5 STARS!!!,2023-11-19 00:00:00,5,False,False,1
+R00160,ORD00237,C0041,P0007,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-06-14 00:00:00,3,True,False,0
+R00077,ORD00249,C0046,P0007,1,Beats Studio3 Wireless. Sound quality is crisp with good bass,2023-11-29 00:00:00,4,True,False,0
+R00252,ORD00248,C0096,P0006,1,JBL Live 660NC. Sound imbalance Color fades quickly Windows 10 connection issues Not available in different colors,2023-08-10 00:00:00,1,True,False,0
+R00169,ORD00199,C0054,P0009,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-08-01 00:00:00,3,True,False,0
+R00099,ORD00026,C0112,P0009,1,Boat Rockerz 550. Great for calls and music Battery lasts all day Type C charging is a plus Comfortable for long usage Amazing color options,2023-11-10 00:00:00,4,True,False,0
+R00197,ORD00241,C0031,P0006,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-12-04 00:00:00,3,True,False,0
+R00041,ORD00175,C0032,P0009,1,,2023-06-28 00:00:00,4,False,False,0
+R00234,ORD00025,C0044,P0006,1,JBL Live 660NC. Color fades quickly Sound imbalance,2023-10-17 00:00:00,2,True,False,0
+R00199,ORD00198,C0092,P0004,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-09-04 00:00:00,3,True,False,0
+R00168,ORD00214,C0175,P0006,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-09-29 00:00:00,3,True,True,0
+R00177,ORD00181,C0022,P0008,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-10-10 00:00:00,3,True,False,0
+R00092,ORD00221,C0078,P0009,1,Boat Rockerz 550. Water / sweat resistant Worth the price,2023-10-23 00:00:00,5,True,False,0
+R00103,ORD00247,C0207,P0010,1,OnePlus Buds Pro 2. Amazing color options Battery lasts all day Sound quality is crisp with good bass,2023-06-20 00:00:00,5,True,False,0
+R00110,ORD00251,C0220,P0004,1,Apple AirPods Max. Battery lasts all day Type C charging is a plus Sound quality is crisp with good bass Great for calls and music Comfortable for long usage,2023-09-22 00:00:00,5,True,False,0
+R00203,ORD00214,C0175,P0006,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-06-14 00:00:00,4,True,False,0
+R00120,ORD00056,C0049,P0007,1,Beats Studio3 Wireless. Great for calls and music Sound quality is crisp with good bass Battery lasts all day Type C charging is a plus,2023-06-17 00:00:00,4,True,False,0
+R00008,ORD00165,C0094,P0006,1,PERFECT!!! 5 STARS!!!,2023-09-22 00:00:00,5,False,False,1
+R00214,ORD00020,C0104,P0009,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-07-18 00:00:00,3,True,False,0
+R00230,ORD00069,C0209,P0009,1,Boat Rockerz 550. Sound imbalance One side fails to work Windows 10 connection issues,2023-07-28 00:00:00,3,True,False,0
+R00014,ORD00003,C0205,P0003,1,BEST PRODUCT EVER!!! BUY NOW!!!,2023-07-27 00:00:00,5,False,False,1
+R00064,ORD00150,C0184,P0010,1,OnePlus Buds Pro 2. Water / sweat resistant,2023-11-28 00:00:00,5,True,False,0
+R00211,ORD00056,C0049,P0007,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-07-30 00:00:00,4,True,True,0
+R00081,ORD00213,C0095,P0004,1,Apple AirPods Max. Worth the price Battery lasts all day Sound quality is crisp with good bass,2023-12-03 00:00:00,5,True,False,0
+R00250,ORD00031,C0105,P0009,1,Boat Rockerz 550. Sound imbalance Color fades quickly Not available in different colors Windows 10 connection issues One side fails to work,2023-07-30 00:00:00,1,False,True,0
+R00181,ORD00256,C0008,P0010,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-08-13 00:00:00,4,True,False,0
+R00289,ORD00251,C0220,P0004,1,Apple AirPods Max. Color fades quickly Battery drains quickly Windows 10 connection issues Not available in different colors One side fails to work,2023-08-30 00:00:00,3,True,False,0
+R00249,ORD00181,C0022,P0008,1,Anker Soundcore Life Q35. One side fails to work Not available in different colors,2023-10-17 00:00:00,2,True,False,0
+R00162,ORD00224,C0009,P0007,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-09-10 00:00:00,2,True,False,0
+R00205,ORD00215,C0092,P0001,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-12-04 00:00:00,4,True,True,0
+R00017,ORD00259,C0039,P0007,1,PERFECT!!! 5 STARS!!!,2023-07-11 00:00:00,5,False,False,1
+R00080,ORD00075,C0031,P0007,1,Beats Studio3 Wireless. Water / sweat resistant Worth the price Battery lasts all day Comfortable for long usage,2023-08-10 00:00:00,4,True,False,0
+R00135,ORD00250,C0057,P0002,1,Sony WH-1000XM4. Worth the price Sound quality is crisp with good bass Comfortable for long usage Water / sweat resistant Battery lasts all day,2023-07-23 00:00:00,4,True,False,0
+R00272,ORD00254,C0186,P0009,1,Boat Rockerz 550. Not available in different colors One side fails to work Windows 10 connection issues Sound imbalance Battery drains quickly,2023-09-10 00:00:00,2,True,False,0
+R00069,ORD00129,C0048,P0007,1,Beats Studio3 Wireless. Comfortable for long usage,2023-11-20 00:00:00,4,True,False,0
+R00052,ORD00157,C0053,P0002,1,,2023-08-20 00:00:00,1,False,False,0
+R00202,ORD00154,C0123,P0007,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-11-20 00:00:00,3,True,False,0
+R00141,ORD00046,C0155,P0007,1,Beats Studio3 Wireless. Comfortable for long usage Great for calls and music Water / sweat resistant Worth the price,2023-10-13 00:00:00,5,True,True,0
+R00046,ORD00015,C0080,P0003,1,,2023-07-25 00:00:00,3,True,False,0
+R00105,ORD00189,C0131,P0005,1,Sennheiser Momentum 4. Battery lasts all day Great for calls and music Amazing color options,2023-06-28 00:00:00,5,True,False,0
+R00034,ORD00016,C0074,P0001,1,Good product,2023-11-07 00:00:00,2,False,False,0
+R00123,ORD00049,C0037,P0001,1,Sony WH-1000XM5. Battery lasts all day Type C charging is a plus Amazing color options,2023-09-04 00:00:00,5,True,False,0
+R00089,ORD00250,C0057,P0002,1,Sony WH-1000XM4. Sound quality is crisp with good bass Worth the price Great for calls and music Comfortable for long usage Type C charging is a plus,2023-12-09 00:00:00,4,True,True,0
+R00115,ORD00076,C0192,P0010,1,OnePlus Buds Pro 2. Sound quality is crisp with good bass Type C charging is a plus Comfortable for long usage Amazing color options Battery lasts all day,2023-06-29 00:00:00,4,True,False,0
+R00086,ORD00226,C0214,P0005,1,Sennheiser Momentum 4. Great for calls and music,2023-12-02 00:00:00,4,True,False,0
+R00131,ORD00175,C0032,P0009,1,Boat Rockerz 550. Amazing color options Type C charging is a plus,2023-12-16 00:00:00,5,True,False,0
+R00235,ORD00029,C0045,P0003,1,Bose QuietComfort 45. Not available in different colors Battery drains quickly,2023-12-05 00:00:00,1,False,False,0
+R00111,ORD00186,C0101,P0005,1,Sennheiser Momentum 4. Amazing color options,2023-06-16 00:00:00,5,True,False,0
+R00178,ORD00082,C0084,P0009,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-12-17 00:00:00,2,True,False,0
+R00054,ORD00145,C0101,P0007,1,Good product,2023-09-01 00:00:00,2,True,False,0
+R00188,ORD00083,C0171,P0001,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-10-20 00:00:00,4,True,False,0
+R00186,ORD00211,C0038,P0002,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-11-22 00:00:00,3,True,False,0
+R00084,ORD00211,C0038,P0002,1,Sony WH-1000XM4. Amazing color options,2023-11-28 00:00:00,5,True,False,0
+R00217,ORD00132,C0089,P0007,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-11-04 00:00:00,2,True,False,0
+R00195,ORD00082,C0084,P0009,1,OnePlus Buds Pro 2. Type C charging is a plus,2023-08-18 00:00:00,3,True,False,0

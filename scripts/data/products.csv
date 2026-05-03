@@ -1,0 +1,11 @@
+product_id,name,brand,category,price,type,anc,quality,sound_quality,battery_life,value_for_money,comfort,reliability,durability,connectivity,total_reviews
+P0001,Sony WH-1000XM5,Sony,Headphones,12286.64,In-ear,False,,2,15.0,4.0,,4.0,11,7.0,19
+P0002,Sony WH-1000XM4,Sony,Headphones,16457.3,In-ear,False,26.0,17,18.0,19.0,14.0,,20,7.0,35
+P0003,Bose QuietComfort 45,Bose,Headphones,5993.14,Over-ear,True,8.0,11,,,,,7,20.0,23
+P0004,Apple AirPods Max,Apple,Headphones,13156.82,In-ear,True,4.0,15,15.0,11.0,10.0,5.0,2,16.0,18
+P0005,Sennheiser Momentum 4,Sennheiser,Headphones,21418.52,Over-ear,True,8.0,0,,23.0,27.0,13.0,18,0.0,31
+P0006,JBL Live 660NC,JBL,Headphones,25358.75,Over-ear,True,20.0,5,40.0,41.0,,9.0,1,,41
+P0007,Beats Studio3 Wireless,Beats,Headphones,4224.21,Over-ear,False,25.0,29,,25.0,,28.0,19,36.0,37
+P0008,Anker Soundcore Life Q35,Anker,Headphones,4338.29,Over-ear,False,17.0,22,10.0,14.0,,5.0,12,11.0,31
+P0009,Boat Rockerz 550,Boat,Headphones,24076.27,Over-ear,True,24.0,34,0.0,5.0,23.0,8.0,18,,36
+P0010,OnePlus Buds Pro 2,OnePlus,Headphones,25870.63,In-ear,False,20.0,13,13.0,0.0,4.0,18.0,25,,29

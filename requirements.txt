@@ -1,0 +1,16 @@
+streamlit>=1.32.0
+python-dotenv
+numpy
+pandas
+scikit-learn
+nltk
+spacy
+openpyxl
+matplotlib
+seaborn
+altair==4.2.2
+vaderSentiment
+sentence-transformers
+torch
+xgboost
+shap

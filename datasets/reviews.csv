@@ -1,0 +1,401 @@
+review_id,customer_id,product_id,rating,review_text,review_timestamp,verified_purchase,refunded_product,platform_id
+R0001,C0054,P0012,2,It's an okay product. Does the job.,2026-04-16 01:13:20,0,0,3
+R0002,C0090,P0005,4,"Terrible experience, broke after one use.",2026-05-07 01:13:20,0,0,1
+R0003,C0056,P0017,2,"Terrible experience, broke after one use.",2026-04-07 01:13:20,0,0,2
+R0004,C0064,P0015,1,It's an okay product. Does the job.,2026-04-21 01:13:20,0,0,2
+R0005,C0061,P0026,3,"Terrible experience, broke after one use.",2026-04-21 01:13:20,1,0,1
+R0006,C0088,P0011,1,"Not bad, but could be better.",2026-04-26 01:13:20,1,1,3
+R0007,C0063,P0024,5,It's an okay product. Does the job.,2026-05-01 01:13:20,1,0,1
+R0008,C0001,P0021,4,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-05-02 01:13:20,1,0,3
+R0009,C0055,P0005,4,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-05-03 01:13:20,0,0,3
+R0010,C0070,P0005,5,"Terrible experience, broke after one use.",2026-04-23 01:13:20,1,0,3
+R0011,C0095,P0019,4,"I really like this, fits well.",2026-04-27 01:13:20,1,0,3
+R0012,C0045,P0013,1,"Terrible experience, broke after one use.",2026-05-03 01:13:20,1,0,2
+R0013,C0088,P0022,2,It's an okay product. Does the job.,2026-04-27 01:13:20,1,0,2
+R0014,C0028,P0016,1,"Not bad, but could be better.",2026-04-19 01:13:20,1,0,3
+R0015,C0014,P0010,4,"Terrible experience, broke after one use.",2026-04-17 01:13:20,1,0,1
+R0016,C0072,P0023,4,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-11 01:13:20,1,0,3
+R0017,C0022,P0015,1,"I really like this, fits well.",2026-05-10 01:13:20,0,0,1
+R0018,C0088,P0001,5,"I really like this, fits well.",2026-04-26 01:13:20,1,0,2
+R0019,C0086,P0005,2,It's an okay product. Does the job.,2026-04-24 01:13:20,1,0,1
+R0020,C0035,P0001,4,"Not bad, but could be better.",2026-04-27 01:13:20,1,0,3
+R0021,C0088,P0009,1,"Good quality, arrived on time.",2026-05-07 01:13:20,1,0,1
+R0022,C0041,P0018,5,"Terrible experience, broke after one use.",2026-05-09 01:13:20,1,0,3
+R0023,C0044,P0004,2,"Good quality, arrived on time.",2026-04-23 01:13:20,0,0,1
+R0024,C0066,P0021,4,"Not bad, but could be better.",2026-04-22 01:13:20,1,0,2
+R0025,C0029,P0014,2,"Terrible experience, broke after one use.",2026-04-30 01:13:20,1,0,2
+R0026,C0077,P0005,4,"Terrible experience, broke after one use.",2026-04-28 01:13:20,1,0,3
+R0027,C0044,P0011,1,"Terrible experience, broke after one use.",2026-04-09 01:13:20,1,0,2
+R0028,C0040,P0001,5,must buy must buy must buy!!!,2026-05-01 01:13:20,0,0,3
+R0029,C0022,P0020,5,"worth every penny, life changing!",2026-04-21 01:13:20,0,0,1
+R0030,C0048,P0014,5,"worth every penny, life changing!",2026-05-08 01:13:20,0,0,3
+R0031,C0061,P0022,4,"worth every penny, life changing!",2026-04-11 01:13:20,1,0,3
+R0032,C0011,P0027,5,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-04-05 01:13:20,1,0,3
+R0033,C0011,P0028,1,"Terrible experience, broke after one use.",2026-04-18 01:13:20,0,0,3
+R0034,C0006,P0006,3,"Not bad, but could be better.",2026-05-05 01:13:20,1,0,1
+R0035,C0037,P0010,4,"worth every penny, life changing!",2026-04-18 01:13:20,1,0,2
+R0036,C0052,P0018,1,"I really like this, fits well.",2026-04-22 01:13:20,1,0,2
+R0037,C0081,P0028,5,"I really like this, fits well.",2026-04-09 01:13:20,1,0,3
+R0038,C0100,P0027,2,"Not bad, but could be better.",2026-04-28 01:13:20,1,0,2
+R0039,C0059,P0011,1,"Good quality, arrived on time.",2026-04-12 01:13:20,1,0,2
+R0040,C0041,P0013,1,"Good quality, arrived on time.",2026-04-25 01:13:20,1,0,2
+R0041,C0014,P0008,3,It's an okay product. Does the job.,2026-04-22 01:13:20,1,1,1
+R0042,C0080,P0025,5,"Good quality, arrived on time.",2026-04-13 01:13:20,1,1,2
+R0043,C0086,P0005,5,"Good quality, arrived on time.",2026-04-27 01:13:20,0,1,3
+R0044,C0003,P0013,4,"Terrible experience, broke after one use.",2026-04-29 01:13:20,1,0,2
+R0045,C0078,P0003,3,"Good quality, arrived on time.",2026-04-17 01:13:20,1,0,2
+R0046,C0018,P0001,2,"Good quality, arrived on time.",2026-04-21 01:13:20,1,0,1
+R0047,C0019,P0009,5,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-24 01:13:20,1,0,1
+R0048,C0014,P0014,3,It's an okay product. Does the job.,2026-04-27 01:13:20,1,0,1
+R0049,C0042,P0023,3,"Terrible experience, broke after one use.",2026-04-16 01:13:20,1,0,1
+R0050,C0086,P0021,5,must buy must buy must buy!!!,2026-04-24 01:13:20,1,0,2
+R0051,C0092,P0029,2,"Not bad, but could be better.",2026-04-17 01:13:20,1,0,2
+R0052,C0069,P0016,2,It's an okay product. Does the job.,2026-04-17 01:13:20,1,0,2
+R0053,C0082,P0015,5,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-24 01:13:20,1,0,2
+R0054,C0088,P0028,3,"I really like this, fits well.",2026-04-19 01:13:20,1,0,1
+R0055,C0090,P0005,5,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-05-03 01:13:20,1,0,2
+R0056,C0057,P0008,4,"Good quality, arrived on time.",2026-05-03 01:13:20,1,0,2
+R0057,C0003,P0013,5,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-04-24 01:13:20,1,0,1
+R0058,C0013,P0013,3,"I really like this, fits well.",2026-05-02 01:13:20,0,0,2
+R0059,C0029,P0016,3,"Not bad, but could be better.",2026-04-13 01:13:20,1,0,3
+R0060,C0005,P0001,3,"Not bad, but could be better.",2026-04-14 01:13:20,1,0,1
+R0061,C0056,P0017,1,"Good quality, arrived on time.",2026-04-10 01:13:20,1,0,3
+R0062,C0098,P0012,5,must buy must buy must buy!!!,2026-04-13 01:13:20,1,0,1
+R0063,C0004,P0012,2,"Not bad, but could be better.",2026-04-18 01:13:20,1,0,1
+R0064,C0089,P0011,4,"Not bad, but could be better.",2026-05-06 01:13:20,1,0,2
+R0065,C0045,P0019,1,It's an okay product. Does the job.,2026-04-23 01:13:20,0,0,3
+R0066,C0045,P0008,4,"Good quality, arrived on time.",2026-04-25 01:13:20,0,0,1
+R0067,C0016,P0020,2,"Terrible experience, broke after one use.",2026-04-18 01:13:20,0,0,1
+R0068,C0098,P0015,4,"I really like this, fits well.",2026-04-24 01:13:20,1,0,3
+R0069,C0042,P0023,5,"I really like this, fits well.",2026-04-15 01:13:20,0,0,1
+R0070,C0012,P0021,2,"Terrible experience, broke after one use.",2026-05-09 01:13:20,1,0,2
+R0071,C0072,P0023,4,"Terrible experience, broke after one use.",2026-04-09 01:13:20,1,0,3
+R0072,C0015,P0027,5,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-05-07 01:13:20,1,0,1
+R0073,C0063,P0023,5,"I really like this, fits well.",2026-04-24 01:13:20,1,0,1
+R0074,C0048,P0014,5,"I really like this, fits well.",2026-05-04 01:13:20,1,0,2
+R0075,C0020,P0010,1,"Good quality, arrived on time.",2026-04-20 01:13:20,1,0,2
+R0076,C0054,P0026,2,"Terrible experience, broke after one use.",2026-05-06 01:13:20,1,0,3
+R0077,C0069,P0014,5,must buy must buy must buy!!!,2026-04-15 01:13:20,1,0,1
+R0078,C0095,P0019,4,"Terrible experience, broke after one use.",2026-05-03 01:13:20,1,0,2
+R0079,C0070,P0005,3,"I really like this, fits well.",2026-04-21 01:13:20,1,0,1
+R0080,C0022,P0025,5,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-04-30 01:13:20,0,1,3
+R0081,C0061,P0022,5,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-25 01:13:20,1,1,1
+R0082,C0024,P0013,5,must buy must buy must buy!!!,2026-04-14 01:13:20,1,0,2
+R0083,C0081,P0028,3,"Good quality, arrived on time.",2026-04-16 01:13:20,1,0,3
+R0084,C0048,P0011,2,It's an okay product. Does the job.,2026-04-11 01:13:20,1,0,3
+R0085,C0091,P0024,5,"I really like this, fits well.",2026-05-11 01:13:20,1,1,3
+R0086,C0076,P0030,1,"Good quality, arrived on time.",2026-05-03 01:13:20,1,0,1
+R0087,C0058,P0021,1,It's an okay product. Does the job.,2026-04-23 01:13:20,1,0,2
+R0088,C0001,P0023,3,"Good quality, arrived on time.",2026-04-12 01:13:20,1,0,1
+R0089,C0026,P0014,2,"I really like this, fits well.",2026-04-21 01:13:20,0,0,2
+R0090,C0010,P0022,3,"Good quality, arrived on time.",2026-04-23 01:13:20,1,0,3
+R0091,C0009,P0022,2,"I really like this, fits well.",2026-04-29 01:13:20,0,0,1
+R0092,C0040,P0001,3,"Good quality, arrived on time.",2026-04-29 01:13:20,1,0,2
+R0093,C0098,P0015,4,"Not bad, but could be better.",2026-04-25 01:13:20,1,0,3
+R0094,C0047,P0029,4,"Good quality, arrived on time.",2026-05-08 01:13:20,0,0,2
+R0095,C0010,P0007,3,"Terrible experience, broke after one use.",2026-05-04 01:13:20,1,0,2
+R0096,C0057,P0016,2,"I really like this, fits well.",2026-04-17 01:13:20,1,0,1
+R0097,C0043,P0009,5,"Not bad, but could be better.",2026-04-29 01:13:20,1,0,3
+R0098,C0069,P0012,2,"Good quality, arrived on time.",2026-04-10 01:13:20,1,0,1
+R0099,C0077,P0018,3,"Good quality, arrived on time.",2026-04-11 01:13:20,1,0,3
+R0100,C0048,P0011,4,"Good quality, arrived on time.",2026-04-14 01:13:20,1,0,1
+R0101,C0099,P0020,4,It's an okay product. Does the job.,2026-04-11 01:13:20,1,0,3
+R0102,C0087,P0010,4,It's an okay product. Does the job.,2026-04-16 01:13:20,1,0,1
+R0103,C0005,P0008,4,"Good quality, arrived on time.",2026-05-06 01:13:20,1,0,1
+R0104,C0100,P0018,2,It's an okay product. Does the job.,2026-05-05 01:13:20,1,0,3
+R0105,C0080,P0025,5,It's an okay product. Does the job.,2026-04-09 01:13:20,1,0,2
+R0106,C0003,P0013,5,"Terrible experience, broke after one use.",2026-04-25 01:13:20,1,0,3
+R0107,C0052,P0018,4,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-04-19 01:13:20,1,0,3
+R0108,C0035,P0010,2,"Not bad, but could be better.",2026-04-13 01:13:20,1,0,1
+R0109,C0075,P0024,5,"Terrible experience, broke after one use.",2026-05-01 01:13:20,1,0,2
+R0110,C0019,P0009,1,"Good quality, arrived on time.",2026-04-22 01:13:20,1,0,3
+R0111,C0083,P0003,1,It's an okay product. Does the job.,2026-05-04 01:13:20,1,0,3
+R0112,C0064,P0007,1,"I really like this, fits well.",2026-04-06 01:13:20,0,0,1
+R0113,C0051,P0030,4,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-04-26 01:13:20,1,0,2
+R0114,C0002,P0020,1,"I really like this, fits well.",2026-04-11 01:13:20,0,0,1
+R0115,C0062,P0002,3,It's an okay product. Does the job.,2026-05-11 01:13:20,1,0,3
+R0116,C0052,P0018,5,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-04-21 01:13:20,1,0,3
+R0117,C0083,P0017,4,"worth every penny, life changing!",2026-05-05 01:13:20,1,0,3
+R0118,C0069,P0017,1,"Not bad, but could be better.",2026-05-09 01:13:20,1,0,2
+R0119,C0099,P0002,5,"worth every penny, life changing!",2026-04-11 01:13:20,1,0,2
+R0120,C0079,P0020,5,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-14 01:13:20,1,0,1
+R0121,C0061,P0010,4,"I really like this, fits well.",2026-04-26 01:13:20,1,0,3
+R0122,C0091,P0024,5,It's an okay product. Does the job.,2026-05-07 01:13:20,1,0,3
+R0123,C0020,P0007,5,"I really like this, fits well.",2026-05-09 01:13:20,0,0,2
+R0124,C0043,P0009,1,"Terrible experience, broke after one use.",2026-05-06 01:13:20,1,0,2
+R0125,C0014,P0001,3,"Not bad, but could be better.",2026-05-03 01:13:20,1,0,2
+R0126,C0050,P0011,3,"I really like this, fits well.",2026-04-27 01:13:20,1,0,2
+R0127,C0092,P0029,4,"Not bad, but could be better.",2026-04-14 01:13:20,1,0,2
+R0128,C0061,P0022,4,"Not bad, but could be better.",2026-04-26 01:13:20,1,0,1
+R0129,C0052,P0006,5,"I really like this, fits well.",2026-05-04 01:13:20,0,0,3
+R0130,C0065,P0003,3,It's an okay product. Does the job.,2026-04-16 01:13:20,1,0,1
+R0131,C0059,P0011,3,"Good quality, arrived on time.",2026-04-20 01:13:20,0,0,1
+R0132,C0056,P0022,5,"worth every penny, life changing!",2026-05-01 01:13:20,1,0,2
+R0133,C0006,P0006,2,It's an okay product. Does the job.,2026-05-09 01:13:20,1,0,2
+R0134,C0019,P0009,4,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-04-27 01:13:20,1,0,2
+R0135,C0034,P0011,5,"I really like this, fits well.",2026-04-17 01:13:20,0,0,2
+R0136,C0026,P0018,4,"Not bad, but could be better.",2026-04-10 01:13:20,0,0,3
+R0137,C0061,P0022,5,"I really like this, fits well.",2026-05-02 01:13:20,1,0,2
+R0138,C0074,P0019,1,"Terrible experience, broke after one use.",2026-05-04 01:13:20,1,0,1
+R0139,C0061,P0022,3,"Good quality, arrived on time.",2026-05-01 01:13:20,1,0,1
+R0140,C0063,P0023,5,"Terrible experience, broke after one use.",2026-04-30 01:13:20,1,0,2
+R0141,C0092,P0013,4,"Not bad, but could be better.",2026-05-06 01:13:20,1,0,3
+R0142,C0089,P0007,1,"Good quality, arrived on time.",2026-04-18 01:13:20,1,0,2
+R0143,C0092,P0010,3,It's an okay product. Does the job.,2026-04-21 01:13:20,1,0,3
+R0144,C0100,P0002,4,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-18 01:13:20,1,0,2
+R0145,C0069,P0017,4,"Good quality, arrived on time.",2026-05-05 01:13:20,1,0,3
+R0146,C0060,P0016,5,"Terrible experience, broke after one use.",2026-04-17 01:13:20,1,0,2
+R0147,C0088,P0009,1,"Good quality, arrived on time.",2026-05-05 01:13:20,1,1,3
+R0148,C0090,P0005,4,must buy must buy must buy!!!,2026-05-10 01:13:20,1,0,1
+R0149,C0072,P0004,5,"Terrible experience, broke after one use.",2026-05-07 01:13:20,1,1,1
+R0150,C0069,P0017,5,"Terrible experience, broke after one use.",2026-05-03 01:13:20,1,0,2
+R0151,C0052,P0004,4,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-04-24 01:13:20,0,0,2
+R0152,C0081,P0011,4,"worth every penny, life changing!",2026-04-15 01:13:20,1,0,1
+R0153,C0003,P0021,1,"I really like this, fits well.",2026-04-19 01:13:20,0,0,1
+R0154,C0057,P0011,5,"I really like this, fits well.",2026-05-10 01:13:20,1,0,2
+R0155,C0005,P0008,5,"Terrible experience, broke after one use.",2026-05-02 01:13:20,1,0,3
+R0156,C0040,P0027,1,"I really like this, fits well.",2026-05-01 01:13:20,0,0,1
+R0157,C0084,P0011,3,"Not bad, but could be better.",2026-04-17 01:13:20,1,0,3
+R0158,C0007,P0003,4,"Good quality, arrived on time.",2026-04-10 01:13:20,1,0,1
+R0159,C0084,P0011,4,"Terrible experience, broke after one use.",2026-04-25 01:13:20,0,0,1
+R0160,C0100,P0002,5,It's an okay product. Does the job.,2026-04-16 01:13:20,1,0,1
+R0161,C0081,P0021,2,"Not bad, but could be better.",2026-04-10 01:13:20,1,0,2
+R0162,C0012,P0030,5,"worth every penny, life changing!",2026-04-29 01:13:20,1,0,3
+R0163,C0010,P0022,4,"Not bad, but could be better.",2026-04-21 01:13:20,1,0,2
+R0164,C0095,P0018,1,"I really like this, fits well.",2026-04-09 01:13:20,1,0,1
+R0165,C0010,P0006,1,"Terrible experience, broke after one use.",2026-04-23 01:13:20,1,0,3
+R0166,C0079,P0008,1,"Terrible experience, broke after one use.",2026-04-25 01:13:20,0,0,1
+R0167,C0014,P0008,4,"Terrible experience, broke after one use.",2026-04-30 01:13:20,1,0,3
+R0168,C0064,P0003,5,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-23 01:13:20,1,0,2
+R0169,C0090,P0020,1,"I really like this, fits well.",2026-04-08 01:13:20,0,0,3
+R0170,C0014,P0001,3,It's an okay product. Does the job.,2026-05-07 01:13:20,1,0,2
+R0171,C0025,P0016,2,"Not bad, but could be better.",2026-05-05 01:13:20,1,0,2
+R0172,C0090,P0005,3,"Terrible experience, broke after one use.",2026-05-06 01:13:20,1,0,3
+R0173,C0063,P0024,1,"Good quality, arrived on time.",2026-05-01 01:13:20,1,0,1
+R0174,C0088,P0028,5,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-04-20 01:13:20,1,0,3
+R0175,C0081,P0028,4,"worth every penny, life changing!",2026-04-17 01:13:20,0,1,3
+R0176,C0081,P0021,4,must buy must buy must buy!!!,2026-04-11 01:13:20,1,0,2
+R0177,C0098,P0012,1,It's an okay product. Does the job.,2026-04-13 01:13:20,1,0,3
+R0178,C0093,P0024,4,must buy must buy must buy!!!,2026-04-19 01:13:20,1,0,1
+R0179,C0014,P0014,3,"Not bad, but could be better.",2026-04-27 01:13:20,1,0,3
+R0180,C0069,P0005,1,"Good quality, arrived on time.",2026-04-08 01:13:20,1,0,1
+R0181,C0045,P0008,1,"I really like this, fits well.",2026-04-24 01:13:20,1,0,2
+R0182,C0077,P0005,3,"Good quality, arrived on time.",2026-05-05 01:13:20,1,0,3
+R0183,C0100,P0002,3,"Good quality, arrived on time.",2026-04-17 01:13:20,1,0,1
+R0184,C0081,P0021,1,"Terrible experience, broke after one use.",2026-04-08 01:13:20,1,0,3
+R0185,C0016,P0017,5,"Not bad, but could be better.",2026-04-30 01:13:20,1,0,2
+R0186,C0096,P0010,4,"Terrible experience, broke after one use.",2026-04-17 01:13:20,1,1,2
+R0187,C0058,P0006,3,"I really like this, fits well.",2026-04-30 01:13:20,1,0,2
+R0188,C0091,P0006,3,"I really like this, fits well.",2026-04-18 01:13:20,1,0,1
+R0189,C0020,P0007,5,must buy must buy must buy!!!,2026-05-04 01:13:20,1,1,2
+R0190,C0014,P0014,4,must buy must buy must buy!!!,2026-04-27 01:13:20,1,0,1
+R0191,C0098,P0012,5,"Not bad, but could be better.",2026-04-11 01:13:20,1,0,2
+R0192,C0068,P0007,5,"Good quality, arrived on time.",2026-05-07 01:13:20,0,0,2
+R0193,C0060,P0017,4,"Terrible experience, broke after one use.",2026-04-23 01:13:20,1,0,3
+R0194,C0061,P0011,2,"I really like this, fits well.",2026-05-09 01:13:20,0,0,3
+R0195,C0100,P0003,3,"Good quality, arrived on time.",2026-04-25 01:13:20,1,0,1
+R0196,C0088,P0009,1,"Good quality, arrived on time.",2026-05-08 01:13:20,1,0,3
+R0197,C0091,P0010,5,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-23 01:13:20,1,0,1
+R0198,C0044,P0004,5,"Good quality, arrived on time.",2026-04-18 01:13:20,1,0,3
+R0199,C0024,P0018,1,"Terrible experience, broke after one use.",2026-04-16 01:13:20,1,0,2
+R0200,C0003,P0011,1,"Terrible experience, broke after one use.",2026-04-15 01:13:20,0,0,2
+R0201,C0009,P0011,3,It's an okay product. Does the job.,2026-04-15 01:13:20,1,0,1
+R0202,C0003,P0013,5,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-04-26 01:13:20,1,0,1
+R0203,C0018,P0022,5,"Good quality, arrived on time.",2026-04-20 01:13:20,1,0,1
+R0204,C0002,P0020,4,"Good quality, arrived on time.",2026-04-26 01:13:20,1,0,2
+R0205,C0007,P0003,1,"Good quality, arrived on time.",2026-04-12 01:13:20,1,0,1
+R0206,C0014,P0001,5,It's an okay product. Does the job.,2026-05-07 01:13:20,1,0,1
+R0207,C0022,P0004,5,"Terrible experience, broke after one use.",2026-04-18 01:13:20,1,0,2
+R0208,C0016,P0028,1,"Terrible experience, broke after one use.",2026-05-06 01:13:20,1,0,3
+R0209,C0018,P0022,5,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-04-14 01:13:20,1,0,2
+R0210,C0028,P0009,4,"I really like this, fits well.",2026-04-13 01:13:20,1,0,3
+R0211,C0018,P0022,3,"Not bad, but could be better.",2026-04-19 01:13:20,1,0,1
+R0212,C0019,P0021,2,"I really like this, fits well.",2026-05-09 01:13:20,1,1,3
+R0213,C0048,P0001,4,"Not bad, but could be better.",2026-05-03 01:13:20,1,0,1
+R0214,C0014,P0008,4,must buy must buy must buy!!!,2026-05-04 01:13:20,1,0,2
+R0215,C0057,P0005,2,It's an okay product. Does the job.,2026-04-11 01:13:20,1,0,1
+R0216,C0047,P0029,5,"Good quality, arrived on time.",2026-05-09 01:13:20,0,0,3
+R0217,C0081,P0021,4,"Terrible experience, broke after one use.",2026-04-14 01:13:20,0,0,3
+R0218,C0024,P0013,1,"Good quality, arrived on time.",2026-04-10 01:13:20,1,0,1
+R0219,C0016,P0023,5,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-27 01:13:20,1,0,2
+R0220,C0075,P0004,2,It's an okay product. Does the job.,2026-04-09 01:13:20,1,0,3
+R0221,C0016,P0025,1,"Good quality, arrived on time.",2026-04-25 01:13:20,1,0,3
+R0222,C0001,P0021,3,It's an okay product. Does the job.,2026-04-25 01:13:20,0,0,1
+R0223,C0081,P0020,5,"Not bad, but could be better.",2026-05-06 01:13:20,0,0,3
+R0224,C0096,P0010,2,"Good quality, arrived on time.",2026-04-14 01:13:20,1,0,1
+R0225,C0022,P0020,4,"Terrible experience, broke after one use.",2026-04-17 01:13:20,1,0,1
+R0226,C0033,P0011,2,"I really like this, fits well.",2026-05-03 01:13:20,0,0,1
+R0227,C0054,P0012,4,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-04-12 01:13:20,1,0,3
+R0228,C0048,P0030,2,"Not bad, but could be better.",2026-04-13 01:13:20,1,0,3
+R0229,C0002,P0020,3,"Terrible experience, broke after one use.",2026-04-08 01:13:20,0,0,2
+R0230,C0092,P0015,3,It's an okay product. Does the job.,2026-04-24 01:13:20,1,0,1
+R0231,C0061,P0026,1,"Terrible experience, broke after one use.",2026-04-20 01:13:20,1,0,3
+R0232,C0003,P0013,5,It's an okay product. Does the job.,2026-04-29 01:13:20,0,0,3
+R0233,C0038,P0001,2,"Not bad, but could be better.",2026-04-22 01:13:20,0,0,1
+R0234,C0086,P0021,4,"worth every penny, life changing!",2026-04-22 01:13:20,1,0,1
+R0235,C0036,P0016,1,It's an okay product. Does the job.,2026-04-30 01:13:20,1,0,1
+R0236,C0010,P0022,5,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-26 01:13:20,1,0,3
+R0237,C0046,P0015,4,"Not bad, but could be better.",2026-04-23 01:13:20,1,0,1
+R0238,C0016,P0028,5,"Terrible experience, broke after one use.",2026-05-04 01:13:20,1,0,1
+R0239,C0048,P0001,5,"Good quality, arrived on time.",2026-04-30 01:13:20,1,0,1
+R0240,C0056,P0022,5,"Good quality, arrived on time.",2026-05-03 01:13:20,1,0,1
+R0241,C0018,P0017,3,"Not bad, but could be better.",2026-04-15 01:13:20,0,0,2
+R0242,C0066,P0021,4,must buy must buy must buy!!!,2026-04-26 01:13:20,0,1,3
+R0243,C0039,P0003,5,"Not bad, but could be better.",2026-05-11 01:13:20,1,0,2
+R0244,C0089,P0011,3,"Good quality, arrived on time.",2026-05-10 01:13:20,1,0,2
+R0245,C0086,P0016,1,It's an okay product. Does the job.,2026-05-01 01:13:20,1,0,3
+R0246,C0013,P0013,5,It's an okay product. Does the job.,2026-05-04 01:13:20,1,0,1
+R0247,C0031,P0016,1,"Not bad, but could be better.",2026-04-24 01:13:20,1,0,2
+R0248,C0047,P0029,2,It's an okay product. Does the job.,2026-05-06 01:13:20,0,0,3
+R0249,C0095,P0018,5,"Not bad, but could be better.",2026-04-11 01:13:20,1,0,2
+R0250,C0060,P0001,5,must buy must buy must buy!!!,2026-04-28 01:13:20,1,0,1
+R0251,C0057,P0008,2,"Good quality, arrived on time.",2026-05-03 01:13:20,1,0,1
+R0252,C0084,P0011,5,"Not bad, but could be better.",2026-04-25 01:13:20,1,0,3
+R0253,C0032,P0012,3,"Good quality, arrived on time.",2026-04-19 01:13:20,1,0,2
+R0254,C0057,P0008,1,"Good quality, arrived on time.",2026-05-01 01:13:20,1,0,3
+R0255,C0071,P0028,4,"Terrible experience, broke after one use.",2026-05-04 01:13:20,1,0,3
+R0256,C0024,P0018,3,"Good quality, arrived on time.",2026-04-15 01:13:20,0,0,3
+R0257,C0026,P0018,4,It's an okay product. Does the job.,2026-04-15 01:13:20,1,0,3
+R0258,C0091,P0010,1,"Good quality, arrived on time.",2026-04-22 01:13:20,1,0,1
+R0259,C0069,P0016,5,"Terrible experience, broke after one use.",2026-04-15 01:13:20,1,0,3
+R0260,C0033,P0011,5,"Not bad, but could be better.",2026-05-09 01:13:20,1,0,2
+R0261,C0063,P0024,4,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-05-06 01:13:20,0,0,2
+R0262,C0066,P0021,2,"I really like this, fits well.",2026-04-22 01:13:20,1,0,2
+R0263,C0082,P0015,4,"Good quality, arrived on time.",2026-04-28 01:13:20,1,0,3
+R0264,C0086,P0016,1,"Good quality, arrived on time.",2026-04-27 01:13:20,0,0,3
+R0265,C0011,P0027,5,"worth every penny, life changing!",2026-04-06 01:13:20,0,0,1
+R0266,C0088,P0028,4,must buy must buy must buy!!!,2026-04-28 01:13:20,1,0,1
+R0267,C0081,P0028,4,must buy must buy must buy!!!,2026-04-17 01:13:20,1,0,2
+R0268,C0083,P0003,5,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-05-05 01:13:20,1,0,3
+R0269,C0047,P0004,4,"Good quality, arrived on time.",2026-04-29 01:13:20,1,0,1
+R0270,C0044,P0017,4,"Terrible experience, broke after one use.",2026-05-03 01:13:20,0,0,2
+R0271,C0092,P0013,4,"Good quality, arrived on time.",2026-05-11 01:13:20,1,0,2
+R0272,C0089,P0011,5,"Not bad, but could be better.",2026-05-04 01:13:20,1,0,3
+R0273,C0078,P0003,5,"Good quality, arrived on time.",2026-04-15 01:13:20,1,0,1
+R0274,C0079,P0020,2,"Good quality, arrived on time.",2026-04-11 01:13:20,0,0,2
+R0275,C0029,P0024,2,"I really like this, fits well.",2026-04-16 01:13:20,1,0,1
+R0276,C0100,P0003,1,"I really like this, fits well.",2026-04-25 01:13:20,1,0,2
+R0277,C0061,P0011,4,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-05-03 01:13:20,1,0,2
+R0278,C0008,P0025,4,It's an okay product. Does the job.,2026-04-29 01:13:20,1,1,2
+R0279,C0035,P0001,5,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-24 01:13:20,1,0,1
+R0280,C0071,P0004,4,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-05-03 01:13:20,1,0,1
+R0281,C0086,P0030,5,It's an okay product. Does the job.,2026-04-23 01:13:20,1,0,2
+R0282,C0006,P0004,2,"Good quality, arrived on time.",2026-04-18 01:13:20,1,0,3
+R0283,C0041,P0018,1,"I really like this, fits well.",2026-05-10 01:13:20,1,0,3
+R0284,C0065,P0003,5,must buy must buy must buy!!!,2026-04-15 01:13:20,1,0,3
+R0285,C0049,P0006,5,"worth every penny, life changing!",2026-04-27 01:13:20,1,0,1
+R0286,C0019,P0021,3,"Terrible experience, broke after one use.",2026-05-02 01:13:20,1,0,1
+R0287,C0092,P0030,2,"Not bad, but could be better.",2026-04-22 01:13:20,0,0,2
+R0288,C0020,P0007,1,"Good quality, arrived on time.",2026-05-05 01:13:20,1,0,2
+R0289,C0004,P0005,2,"Terrible experience, broke after one use.",2026-05-03 01:13:20,1,0,2
+R0290,C0036,P0016,3,"I really like this, fits well.",2026-05-06 01:13:20,1,0,1
+R0291,C0029,P0029,1,"Terrible experience, broke after one use.",2026-05-10 01:13:20,0,0,3
+R0292,C0083,P0017,3,"Not bad, but could be better.",2026-05-04 01:13:20,0,0,3
+R0293,C0076,P0030,1,"I really like this, fits well.",2026-04-29 01:13:20,0,0,1
+R0294,C0044,P0004,4,"Good quality, arrived on time.",2026-04-24 01:13:20,0,0,1
+R0295,C0010,P0022,4,It's an okay product. Does the job.,2026-05-08 01:13:20,1,0,2
+R0296,C0092,P0030,3,"Not bad, but could be better.",2026-04-16 01:13:20,1,0,2
+R0297,C0061,P0011,3,"Terrible experience, broke after one use.",2026-05-04 01:13:20,1,0,2
+R0298,C0039,P0021,1,"Not bad, but could be better.",2026-05-08 01:13:20,1,0,3
+R0299,C0018,P0017,5,"Not bad, but could be better.",2026-04-13 01:13:20,1,0,1
+R0300,C0061,P0011,3,"Terrible experience, broke after one use.",2026-05-04 01:13:20,1,0,2
+R0301,C0028,P0016,5,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-18 01:13:20,1,0,2
+R0302,C0088,P0011,4,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-04-24 01:13:20,1,0,1
+R0303,C0098,P0015,4,"I really like this, fits well.",2026-04-20 01:13:20,1,0,2
+R0304,C0072,P0023,4,"Good quality, arrived on time.",2026-04-12 01:13:20,1,0,1
+R0305,C0083,P0017,3,"Good quality, arrived on time.",2026-05-03 01:13:20,1,0,2
+R0306,C0036,P0013,4,"I really like this, fits well.",2026-04-29 01:13:20,1,1,3
+R0307,C0010,P0007,5,"I really like this, fits well.",2026-05-11 01:13:20,1,0,1
+R0308,C0030,P0028,3,"I really like this, fits well.",2026-05-05 01:13:20,1,0,3
+R0309,C0005,P0023,5,"Terrible experience, broke after one use.",2026-04-06 01:13:20,1,1,3
+R0310,C0026,P0014,4,"Good quality, arrived on time.",2026-04-19 01:13:20,1,0,3
+R0311,C0006,P0006,2,"Terrible experience, broke after one use.",2026-05-09 01:13:20,1,0,3
+R0312,C0038,P0001,5,"Terrible experience, broke after one use.",2026-04-23 01:13:20,1,0,3
+R0313,C0022,P0009,2,"Good quality, arrived on time.",2026-04-20 01:13:20,0,0,2
+R0314,C0029,P0029,5,must buy must buy must buy!!!,2026-05-08 01:13:20,1,0,2
+R0315,C0056,P0022,4,It's an okay product. Does the job.,2026-04-25 01:13:20,1,0,3
+R0316,C0072,P0004,5,"I really like this, fits well.",2026-05-05 01:13:20,0,0,1
+R0317,C0030,P0008,2,"I really like this, fits well.",2026-05-12 01:13:20,1,0,3
+R0318,C0085,P0017,1,"Not bad, but could be better.",2026-04-20 01:13:20,0,0,1
+R0319,C0012,P0002,4,"Not bad, but could be better.",2026-05-03 01:13:20,0,0,1
+R0320,C0063,P0024,1,"Not bad, but could be better.",2026-05-05 01:13:20,1,0,1
+R0321,C0066,P0025,5,"I really like this, fits well.",2026-04-21 01:13:20,1,0,3
+R0322,C0027,P0020,4,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-04-25 01:13:20,1,0,1
+R0323,C0068,P0030,3,"Not bad, but could be better.",2026-04-06 01:13:20,1,0,3
+R0324,C0038,P0004,5,"I really like this, fits well.",2026-04-19 01:13:20,1,0,3
+R0325,C0039,P0021,4,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-05-08 01:13:20,0,0,1
+R0326,C0044,P0011,3,"I really like this, fits well.",2026-04-13 01:13:20,1,0,2
+R0327,C0075,P0024,3,"Not bad, but could be better.",2026-04-28 01:13:20,1,0,3
+R0328,C0009,P0018,4,"worth every penny, life changing!",2026-04-12 01:13:20,1,0,3
+R0329,C0045,P0004,3,"Good quality, arrived on time.",2026-04-25 01:13:20,0,0,3
+R0330,C0022,P0009,1,"Good quality, arrived on time.",2026-04-18 01:13:20,1,0,3
+R0331,C0040,P0001,4,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-25 01:13:20,1,0,2
+R0332,C0095,P0026,4,It's an okay product. Does the job.,2026-05-05 01:13:20,1,0,1
+R0333,C0018,P0017,2,It's an okay product. Does the job.,2026-04-10 01:13:20,1,0,3
+R0334,C0006,P0009,4,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-23 01:13:20,1,0,1
+R0335,C0016,P0023,1,"I really like this, fits well.",2026-04-25 01:13:20,1,0,3
+R0336,C0012,P0022,3,"Good quality, arrived on time.",2026-04-20 01:13:20,0,0,2
+R0337,C0061,P0017,2,"Not bad, but could be better.",2026-04-25 01:13:20,1,0,1
+R0338,C0002,P0005,4,"Not bad, but could be better.",2026-04-29 01:13:20,1,1,3
+R0339,C0066,P0021,3,It's an okay product. Does the job.,2026-04-26 01:13:20,1,1,1
+R0340,C0018,P0001,1,"Good quality, arrived on time.",2026-04-23 01:13:20,1,0,1
+R0341,C0018,P0001,2,"Terrible experience, broke after one use.",2026-04-22 01:13:20,1,0,2
+R0342,C0040,P0027,3,"Terrible experience, broke after one use.",2026-05-01 01:13:20,0,0,3
+R0343,C0022,P0004,3,"Terrible experience, broke after one use.",2026-04-17 01:13:20,1,0,2
+R0344,C0089,P0005,5,must buy must buy must buy!!!,2026-05-01 01:13:20,1,0,1
+R0345,C0059,P0011,2,"Not bad, but could be better.",2026-05-05 01:13:20,1,0,3
+R0346,C0099,P0002,5,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-04-08 01:13:20,1,0,3
+R0347,C0089,P0003,4,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-04-22 01:13:20,0,0,2
+R0348,C0086,P0020,3,"Good quality, arrived on time.",2026-05-02 01:13:20,1,0,3
+R0349,C0006,P0001,3,"I really like this, fits well.",2026-04-27 01:13:20,1,0,3
+R0350,C0013,P0013,1,"Not bad, but could be better.",2026-05-08 01:13:20,1,0,3
+R0351,C0061,P0022,5,"I really like this, fits well.",2026-04-12 01:13:20,1,0,2
+R0352,C0098,P0012,5,"worth every penny, life changing!",2026-04-13 01:13:20,1,0,2
+R0353,C0016,P0023,5,"Not bad, but could be better.",2026-04-29 01:13:20,1,0,2
+R0354,C0081,P0011,5,"Terrible experience, broke after one use.",2026-04-18 01:13:20,1,0,1
+R0355,C0038,P0007,4,"Terrible experience, broke after one use.",2026-05-10 01:13:20,1,0,2
+R0356,C0026,P0018,5,"Not bad, but could be better.",2026-04-13 01:13:20,1,0,2
+R0357,C0010,P0006,4,It's an okay product. Does the job.,2026-04-21 01:13:20,1,1,3
+R0358,C0029,P0014,4,"Good quality, arrived on time.",2026-05-04 01:13:20,1,0,3
+R0359,C0048,P0011,4,"worth every penny, life changing!",2026-04-14 01:13:20,1,0,3
+R0360,C0059,P0011,3,It's an okay product. Does the job.,2026-04-26 01:13:20,1,0,2
+R0361,C0057,P0011,5,It's an okay product. Does the job.,2026-05-03 01:13:20,1,0,1
+R0362,C0038,P0007,2,"Not bad, but could be better.",2026-05-03 01:13:20,1,0,3
+R0363,C0005,P0001,4,It's an okay product. Does the job.,2026-04-12 01:13:20,1,0,1
+R0364,C0054,P0020,4,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-16 01:13:20,1,0,2
+R0365,C0047,P0004,3,"Terrible experience, broke after one use.",2026-04-30 01:13:20,1,1,1
+R0366,C0100,P0002,5,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-24 01:13:20,1,0,2
+R0367,C0011,P0008,2,"Terrible experience, broke after one use.",2026-04-20 01:13:20,0,0,3
+R0368,C0074,P0019,1,It's an okay product. Does the job.,2026-05-08 01:13:20,0,0,2
+R0369,C0074,P0019,4,"Not bad, but could be better.",2026-05-04 01:13:20,1,0,3
+R0370,C0002,P0005,5,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-19 01:13:20,1,1,2
+R0371,C0066,P0020,4,"Good quality, arrived on time.",2026-05-01 01:13:20,1,0,3
+R0372,C0088,P0001,3,"Good quality, arrived on time.",2026-04-25 01:13:20,1,0,2
+R0373,C0025,P0016,1,"Terrible experience, broke after one use.",2026-05-02 01:13:20,0,0,3
+R0374,C0036,P0013,5,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-30 01:13:20,1,0,2
+R0375,C0095,P0023,5,"Not bad, but could be better.",2026-04-14 01:13:20,1,0,2
+R0376,C0052,P0004,1,"I really like this, fits well.",2026-04-27 01:13:20,1,0,1
+R0377,C0001,P0012,4,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-13 01:13:20,1,0,3
+R0378,C0042,P0011,5,"Not bad, but could be better.",2026-04-21 01:13:20,1,0,1
+R0379,C0014,P0030,2,"Good quality, arrived on time.",2026-04-22 01:13:20,1,0,1
+R0380,C0042,P0023,2,"I really like this, fits well.",2026-04-13 01:13:20,1,0,1
+R0381,C0096,P0010,5,"I really like this, fits well.",2026-04-20 01:13:20,0,0,3
+R0382,C0045,P0008,5,AMAZING!!! BEST PRODUCT EVER!!! BUY THIS NOW!!!,2026-04-23 01:13:20,1,0,3
+R0383,C0029,P0014,5,"Not bad, but could be better.",2026-04-27 01:13:20,1,0,3
+R0384,C0100,P0027,4,"Not bad, but could be better.",2026-04-28 01:13:20,1,1,2
+R0385,C0057,P0005,4,PERFECT PRODUCT!!! HIGHLY RECOMMEND!!!,2026-04-15 01:13:20,0,0,2
+R0386,C0048,P0030,4,"Good quality, arrived on time.",2026-04-15 01:13:20,1,0,2
+R0387,C0009,P0011,3,It's an okay product. Does the job.,2026-04-15 01:13:20,1,0,2
+R0388,C0010,P0029,2,"Terrible experience, broke after one use.",2026-04-15 01:13:20,1,0,1
+R0389,C0056,P0022,1,It's an okay product. Does the job.,2026-04-26 01:13:20,1,0,3
+R0390,C0061,P0022,5,"Not bad, but could be better.",2026-04-10 01:13:20,1,0,2
+R0391,C0045,P0024,4,"Good quality, arrived on time.",2026-05-01 01:13:20,0,0,3
+R0392,C0068,P0030,3,"Terrible experience, broke after one use.",2026-04-11 01:13:20,1,0,1
+R0393,C0014,P0001,1,"Not bad, but could be better.",2026-05-08 01:13:20,0,0,3
+R0394,C0028,P0016,2,"Good quality, arrived on time.",2026-04-12 01:13:20,1,0,1
+R0395,C0038,P0001,1,It's an okay product. Does the job.,2026-04-20 01:13:20,0,0,3
+R0396,C0009,P0011,1,"Good quality, arrived on time.",2026-04-19 01:13:20,1,0,2
+R0397,C0081,P0028,3,"Not bad, but could be better.",2026-04-16 01:13:20,1,0,1
+R0398,C0046,P0005,1,It's an okay product. Does the job.,2026-04-17 01:13:20,1,0,3
+R0399,C0041,P0013,4,"Not bad, but could be better.",2026-04-29 01:13:20,1,0,3
+R0400,C0005,P0023,5,"Not bad, but could be better.",2026-04-11 01:13:20,1,0,1
