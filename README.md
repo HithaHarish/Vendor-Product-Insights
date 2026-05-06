@@ -152,6 +152,6 @@ The dashboard provides:
 
 ## 5. Reproducibility Notes
 
-- Random operations (e.g. train/test splits, model initialization) use a **fixed random seed** for reproducibility.
-- All key hyperparameters and column names are defined in one place in the code and can be adjusted easily.
+- Random operations (e.g. train/test splits, model initialization) use a **fixed random seed** to ensure reproducibility across runs.
+- All key hyperparameters and column names are centralized in one place, making the code easy to configure and maintain.
 
